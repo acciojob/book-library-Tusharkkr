@@ -14,9 +14,9 @@ nav{
 .book {
     background-color: #777777;
     padding: 15px;
-    margin-bottom: 20px;
+    margin: 20px 0px;
 }
-h1,p{
+h1,p,nav{
     background-color: #777777;
 }
 .book img {
