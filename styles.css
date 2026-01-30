@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+*{
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+nav{
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+.container{
+    background-color: #ffffff;
+
+}
+.book-library{
+    background-color: #ffffff;
+}
+.book {
+    background-color: #777777;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+h1,p{
+    background-color: #777777;
+}
+.book img {
+    display: block;
+    margin: 0 auto;
+}
+button{
+    width: 100%;
+    margin-top: 10px;
+    padding: 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: #2ecc71;
+    color: white;
+}
+
