@@ -30,5 +30,7 @@ button{
     border-radius: 10px;
     background-color: #2ecc71;
     color: #ffffff;
+	border:0;
+	
 }
 
